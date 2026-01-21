@@ -6,6 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+About me
+Hi, there. Dr.Junle LIU earned his Bachelor degree from Harbin Institute of Technology, Shenzhen, and Ph.D. degree from Hong Kong University of Science and Technology (HKUST). Dr Liu joined KTH as a postdoc research fellow supervised by Prof.Ricardo Vinuesa and Prof.Stefan Wallin from May 2025 and his research topics are focusing on DRL and wall modelling.
+
+In his past research journey, he has been concentrating on AI-aided aerodynamics, and data driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
+
+Some recent research interests of Dr.Liu:
+
+1. Developing new wall boundary conditions for turbulent channel;
+
+2. DRL for flow control and UAV optimization (low-attitude drone);
+
+3. AI4Fluids: prediction and reconstruction.
+
+Dr.Liu welcomes any kinds of academic and industrial collaborations. If you are interested in Dr.Liu's research field, please feel free to drop an email at junle@kth.se or any instant messages. 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

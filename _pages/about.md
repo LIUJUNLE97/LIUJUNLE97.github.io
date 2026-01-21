@@ -11,7 +11,7 @@ ABOUT ME
 ======
 Hi, there. Dr.Junle LIU earned his Ph.D. degree from Hong Kong University of Science and Technology (HKUST) at the Wind Engineering and Building Aerodynamics (WEBA) group and his Bachelor's degree from Harbin Institute of Technology Shenzhen, at [Artificial Intelligence for Wind Engineering lab](https://aiweqx.com/). His supervisors are [Prof.Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse) and [Prof.Gang Hu](https://homepage.hit.edu.cn/hugang).
 
-Dr Liu, from May 2025, joined KTH as a postdoc research fellow supervised by [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) and [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) (moved to UMich from Aug 2025), and his research topics focus on DRL and wall modelling.
+Dr Liu, from May 2025, joined KTH [FLOW Center](https://www.flow.kth.se/) as a postdoc research fellow supervised by [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) and [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) (moved to UMich from Aug 2025), and his research topics focus on DRL and wall modelling.
 
 In his past research journey, he has been concentrating on AI-aided aerodynamics and data-driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
 

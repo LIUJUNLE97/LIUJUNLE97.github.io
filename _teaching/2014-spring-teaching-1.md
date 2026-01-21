@@ -10,11 +10,23 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+AT HKUST
 ======
+- CIVL2110 Statics
+- CIVL2120 Mechanics of Materials 
+- CIVL3310 Structural analysis
 
-Heading 2
+At KTH
 ======
+- Wing Profile, experimental fluid mechanics
+- Wing Profile, experimental fluid mechanics lab demonstration
+- Boundary Layer, experimental fluid mechanics lab demonstration
+- Turbulent Wake, experimental fluid mechanics lab demonstration
 
-Heading 3
+OTHERS
 ======
+Course designer and instructor
+- Python language introduction and application for engineering
+
+Professional workshop instructor
+- Artificial Intelligence for Aerodynamics

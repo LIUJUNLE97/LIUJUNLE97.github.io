@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Junle Liu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 ABOUT ME
 ======
-Hi, there. Dr.Junle LIU earned his Bachelor degree from Harbin Institute of Technology, Shenzhen, and Ph.D. degree from Hong Kong University of Science and Technology (HKUST). Dr Liu joined KTH as a postdoc research fellow supervised by [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) and [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) from May 2025 and his research topics are focusing on DRL and wall modelling.
+Hi, there. Dr.Junle LIU earned his Bachelor's degree from Harbin Institute of Technology, Shenzhen, and his Ph.D. degree from Hong Kong University of Science and Technology (HKUST). Dr Liu joined KTH as a postdoc research fellow supervised by [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) and [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) from May 2025, and his research topics focus on DRL and wall modelling.
 
-In his past research journey, he has been concentrating on AI-aided aerodynamics, and data driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
+In his past research journey, he has been concentrating on AI-aided aerodynamics and data-driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
 
 Some recent research interests of Dr.Liu:
 
@@ -19,22 +19,24 @@ Some recent research interests of Dr.Liu:
 - RL for flow control and UAV optimization (low-attitude drone);
 - AI4Fluids: prediction and reconstruction.
 
-Dr.Liu welcomes any kinds of academic and industrial collaborations. If you are interested in Dr.Liu's research field, please feel free to drop an email at junle@kth.se or any instant messages. 
+Dr.Liu welcomes any kind of academic and industrial collaborations. If you are interested in Dr.Liu's research field, please feel free to drop an email at junle@kth.se or send an instant message. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Latest News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[2026 Jan] New collaboration paper in _Energy_ out: [Wind energy potential of a novel green building design: Three connected high-rise buildings with Y-plan layout](https://doi.org/10.1016/j.energy.2026.140124)
+- Topic: Estimate the wind energy potential in the urban city;
+- Method: Numerical-experiments cross-validation;
+- Findings: Installing wind turbines in urban city buildings can harvest a great amount of wind energy.
+[2025 Dec] New paper in _Physics of Fluids_ out: [Spatiotemporal wall pressure forecast of a rectangular cylinder with physics-aware DeepU-Fourier neural network](https://doi.org/10.1063/5.0298947)
+- Topic: Estimate the physics-aware AI model in spatiotemporal wall pressure prediction;
+- Method: Wind tunnel testing, physics-aware AI development, statistical and physical interpretations;
+- Findings: Embedding physics in AI greatly enhances performance and improves extrapolation capability.
+[2025 Dec] New Conference paper in NeurIPS UrbanAI workshop accepted: [PresCast: Physics-Constrained Fourier Kolmogorov-Arnold Networks for Bluff Bodies Spatiotemporal Wall Pressure Forecast](https://openreview.net/forum?id=ibWIrx69yc)
+- Topic: Estimate the wind-induced pressure information on building facade safety;
+- Method: Physics-aware AI, KAN, wind tunnel testing;
+- Findings: AI can short-term forecast on wind-induced pressure to reduce disasters/risks, enhancing building safety.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
 Getting started
 ======

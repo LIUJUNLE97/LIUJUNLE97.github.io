@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-Hi, there. Dr.Junle LIU earned his Bachelor degree from Harbin Institute of Technology, Shenzhen, and Ph.D. degree from Hong Kong University of Science and Technology (HKUST). Dr Liu joined KTH as a postdoc research fellow supervised by Prof.Ricardo Vinuesa and Prof.Stefan Wallin from May 2025 and his research topics are focusing on DRL and wall modelling.
+**About me**
+Hi, there. Dr.Junle LIU earned his Bachelor degree from Harbin Institute of Technology, Shenzhen, and Ph.D. degree from Hong Kong University of Science and Technology (HKUST). Dr Liu joined KTH as a postdoc research fellow supervised by [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) and [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) from May 2025 and his research topics are focusing on DRL and wall modelling.
 
 In his past research journey, he has been concentrating on AI-aided aerodynamics, and data driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
 

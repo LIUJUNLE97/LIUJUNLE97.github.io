@@ -1,14 +1,13 @@
 ---
-title: "Teaching at HKUST"
+title: "Teaching at HKUST (2020-2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "HKUST, Department of Civil & Environmental Engineering"
-date: 2020-2024
+date: 2020-09-01
 location: "Hong Kong"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 AT HKUST
 ======

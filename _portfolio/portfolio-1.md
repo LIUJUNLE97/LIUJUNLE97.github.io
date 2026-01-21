@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Welcome Dr.Weixi Wang's visit to KTH"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/weixi1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Welcome Weixi Wang's visit to Stockholm and KTH. Weixi Wang is one of my friends from HITsz from 2020. 

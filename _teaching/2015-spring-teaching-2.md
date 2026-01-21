@@ -1,14 +1,12 @@
 ---
-title: "Teaching at KTH"
+title: "Teaching at KTH (2025-)"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "KTH Royal Institute of Technology, Department of Engineering Mechanics."
-date: 2025-
+date: 2025-05-05
 location: "Stockholm, Sweden."
 ---
-
-
 
 At KTH
 ======

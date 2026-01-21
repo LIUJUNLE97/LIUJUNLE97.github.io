@@ -1,6 +1,6 @@
 ---
 title: "Welcome Dr.Weixi Wang's visit to KTH"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/weixi1.jpg'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Weixi1.jpg'>"
 collection: portfolio
 ---
 

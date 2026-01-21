@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "CV3.png"
   name             : "Junle Liu"
-  pronouns         :  "he/him"  
+  pronouns         :  #"he/him"  
   bio              : "Postdoc Research Fellow, Passionate on AI & Fluids Engineering"
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Institute of Technology"

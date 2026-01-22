@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Conference Proceeding talk on Shenzhou Forum<br />Harbin Institute of Technology, Suzhou Advanced Research Institute; Suzhou, Jiangsu, CHINA",
+    31.311123,
+    120.6212881
   ],
   [
     "Invited presentation on the East Lake Forum<br />Huazhong University of Science and Technology (HUST); Wuhan, Hubei, CHINA",

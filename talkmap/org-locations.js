@@ -10,7 +10,7 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Give a Talk and Visit Northwestern University (China)<br />Northwestern University; Shenyang, Liaoning, CHINA",
+    "Give a Presentation and Visit Northwestern University (China)<br />Northwestern University; Shenyang, Liaoning, CHINA",
     41.8026095,
     123.4279105
   ],

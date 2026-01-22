@@ -15,3 +15,10 @@ At KTH
 - Boundary Layer, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration
 - Turbulent Wake, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration
 
+OTHERS
+======
+Course designer and instructor
+- Python language introduction and application for engineering
+
+Professional workshop instructor
+- Artificial Intelligence for Aerodynamics

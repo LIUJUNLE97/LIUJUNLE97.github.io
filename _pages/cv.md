@@ -24,3 +24,14 @@ Work experience
 * 2024 Sep-Nov: Postdoc Research Fellow 
   * HKUST
   * Supervisor: [Mengqian Lu](https://cemlu.people.ust.hk/)
+
+Skills
+======
+
+* AI Skills
+  * Computer-vision techniques: CNN, GAT, GAN, multi-modal skills, etc.
+  * Deep reinforcement learning: Reward design with physics, space design with physics
+
+* Fluid Physics background 
+  * Fluid concepts and skills: experimental and numerical skills
+  * Engineering practices skills: manufacturing practical models/demos.

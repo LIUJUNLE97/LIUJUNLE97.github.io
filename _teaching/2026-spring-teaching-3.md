@@ -8,9 +8,6 @@ date: 2022-09-01
 location: "CHINA."
 ---
 
-
-OTHERS
-======
 Course designer and instructor
 - Python language introduction and application for engineering
 

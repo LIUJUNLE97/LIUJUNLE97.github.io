@@ -10,12 +10,12 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Give a Talk and Visit Northwestern University (China)<br />Northwestern University; Shenyang, Liaoning, CHINA",
+    41.8026095,
+    123.4279105
   ],
   [
-    "Give a Talk in Xidian University<br />Xidian University; Xi'an, Shaanxi, China",
+    "Give a Talk in Xidian University<br />Xidian University; Xi'an, Shaanxi, CHINA",
     34.261004,
     108.9423363
   ]

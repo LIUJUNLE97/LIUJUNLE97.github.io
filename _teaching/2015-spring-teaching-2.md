@@ -8,17 +8,8 @@ date: 2025-05-05
 location: "Stockholm, Sweden."
 ---
 
-At KTH
-======
 - Incoming: [SG1115 Particle Dynamics](https://www.kth.se/student/kurser/kurs/SG1115?l=en), project supervision
 - Wing Profile, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration
 - Boundary Layer, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration
 - Turbulent Wake, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration
 
-OTHERS
-======
-Course designer and instructor
-- Python language introduction and application for engineering
-
-Professional workshop instructor
-- Artificial Intelligence for Aerodynamics

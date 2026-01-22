@@ -8,9 +8,6 @@ date: 2020-09-01
 location: "Hong Kong"
 ---
 
-
-AT HKUST
-======
 - CIVL2110 Statics
 - CIVL2120 Mechanics of Materials 
 - CIVL3310 Structural analysis

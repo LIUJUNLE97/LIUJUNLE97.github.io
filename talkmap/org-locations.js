@@ -5,9 +5,9 @@ var addressPoints = [
     -118.242766
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Invited presentation on the East Lake Forum<br />Huazhong University of Science and Technology (HUST); Wuhan, Hubei, CHINA",
+    30.5951051,
+    114.2999353
   ],
   [
     "Give a Presentation and Visit Northwestern University (China)<br />Northwestern University; Shenyang, Liaoning, CHINA",

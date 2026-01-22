@@ -1,11 +1,11 @@
 ---
-title: "Teaching at KTH (2025-)"
+title: "OTHERS (2022-)"
 collection: teaching
-type: "Courses"
-permalink: /teaching/2015-spring-teaching-1
-venue: "KTH Royal Institute of Technology, Department of Engineering Mechanics."
-date: 2025-05-05
-location: "Stockholm, Sweden."
+type: "Workshop"
+permalink: /teaching/2026-spring-teaching-3
+venue: ""
+date: 2022-09-01
+location: "CHINA."
 ---
 
 

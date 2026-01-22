@@ -19,7 +19,7 @@ Work experience
 
 * 2025 May-: Postdoc Research Fellow
   * KTH Royal Institute of Technology
-  * Supervisor: Stefan Wallin & Ricardo Vinuesa (Moved to UMich)
+  * Supervisor: [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) and [Ricardo Vinuesa](https://aero.engin.umich.edu/people/ricardo-vinuesa/) (moved to UMich from Aug 2025)
 
 * 2024 Sep-Nov: Postdoc Research Fellow 
   * HKUST

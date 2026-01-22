@@ -12,6 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Artificial Intelligence and Wind Engineering, The Hong Kong University of Science and Technology, 2024
+  * Supervisors: Tim K.T. Tse and Gang Hu
+  * Thesis: Artificial Intelligence-Aided Aerodynamic Pressure and Flow Field Prediction
+  * Committee member: [Andrew Glen COHEN](https://ias.hkust.edu.hk/people/ias-members/faculty/prof-andrew-cohen), [Hui SU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hui-su-cehsu), [Xiaowei DENG](https://www.civil.hku.hk/pp-dengxw.html), [Lin FU](https://seng.hkust.edu.hk/about/people/faculty/lin-fu), [Jize ZHANG](https://ce.hkust.edu.hk/people/jize-zhang-zhangjize), [Tim K.T. TSE](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse)
 * B.S. in Engineering, Harbin Institute of Technology, Shenzhen, 2020
 
 Work experience

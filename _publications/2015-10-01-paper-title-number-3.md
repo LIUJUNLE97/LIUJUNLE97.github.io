@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "An aerodynamic database of synchronized surface pressure and flow field for 2D rectangular cylinders"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'This paper is about the wind tunnel testing and artificial intelligence.'
+date: 2025-03-01
 venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://doi.org/10.1016/j.engstruct.2024.119506'
+citation: 'Liu et al. (2025). &quot;An aerodynamic database of synchronized surface pressure and flow field for 2D rectangular cylinders.&quot; <i>Engineering Structures 1</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The paper is about the wind tunnel testing on rectangular cylinders, a typical bluff body in engineering practices. A comprehensive datasets were built based on a series of wind tunnel experiments covering different side ratios for rectangular cylinders under multiple angles of attack. Besides, we employ artificial intelligence techniques to predict the mean pressure coefficient distribution based on the datasets constructed. Interesting findings reveal that, based on the input of side ratio and wind angle of attack, AI predictor can estimate the mean pressure coefficient distribution for the unseen cases, providing new alternatives for engineering solutions. 

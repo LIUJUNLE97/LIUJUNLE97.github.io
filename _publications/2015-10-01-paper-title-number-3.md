@@ -1,5 +1,5 @@
 ---
-title: "An aerodynamic database of synchronized surface pressure and flow field for 2D rectangular cylinders"
+title: "Spatiotemporal wall pressure forecast of a rectangular cylinder with physics-aware DeepU-Fourier neural network"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3

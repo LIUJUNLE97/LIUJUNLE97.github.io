@@ -10,3 +10,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S03605442260022
 citation: 'Chen et al. (2026). &quot Wind energy potential of a novel green building design: Three connected high-rise buildings with Y-plan layout;.&quot; <i>Energy, 344, 140124.'
 ---
 
+This paper is about sustainable and green wind energy estimation. 

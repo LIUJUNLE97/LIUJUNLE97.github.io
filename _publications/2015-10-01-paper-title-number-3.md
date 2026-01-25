@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the wind tunnel testing and artificial intelligence.'
 date: 2025-03-01
-venue: 'Journal 1'
+venue: 'Engineering Structures
 paperurl: 'https://doi.org/10.1016/j.engstruct.2024.119506'
 citation: 'Liu et al. (2025). &quot;An aerodynamic database of synchronized surface pressure and flow field for 2D rectangular cylinders.&quot; <i>Engineering Structures 1</i>. 1(3).'
 ---

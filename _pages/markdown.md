@@ -9,7 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-I have plenty of collaborations with respect to AI4S and fluid dynamics. 
+I have numerous collaborations on AI4S and fluid dynamics. 
 
 Some of my collaborations are listed as follows: 
 * Prof.[Chang Liu](https://changliulab.engineering.uconn.edu/) from the University of Connecticut
@@ -17,5 +17,5 @@ Some of my collaborations are listed as follows:
 * Prof.[Tim K.T. Tse](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse) from the Hong Kong University of Science and Technology
 * Prof.[Gang Hu](https://homepage.hit.edu.cn/hugang) from the Harbin Institute of Technology, Shenzhen
 * Prof.[Xiaoshui Huang](https://xiaoshuihuang.github.io/) from the Shanghai Jiaotong Univeristy
-* Research Scientist from Barcelona Super Computing Center
+* [Research Team](https://www.bsc.es/discover-bsc/organisation/research-departments/large-scale-computational-fluid-dynamics) from Barcelona Super Computing Center
 

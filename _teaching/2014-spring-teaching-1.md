@@ -8,9 +8,9 @@ date: 2020-09-01
 location: "Hong Kong"
 ---
 Supervision:
-- Mr.Kihing SHUM
-- Mr.Paco CHEUNG
-- Mr.Dickson MARK
+- Mr.Kihing SHUM: Master's student
+- Mr.Paco CHEUNG: Bachelor's student
+- Mr.Dickson MARK: Bachelor's student
 
 Teaching:
 - CIVL2110 Statics

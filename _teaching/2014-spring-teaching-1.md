@@ -11,7 +11,7 @@ Supervision:
 - Mr.Kihing SHUM: Master's student
 - Mr.Paco CHEUNG: Bachelor's student
 - Mr.Dickson MARK: Bachelor's student
-
+  
 Teaching:
 - CIVL2110 Statics
 - CIVL2120 Mechanics of Materials 

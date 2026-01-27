@@ -2,7 +2,7 @@
 title: "OTHERS (2022-)"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2026-spring-teaching-3
+permalink: /supervision-and-teaching/2026-spring-teaching-3
 venue: "Online Module"
 date: 2022-09-01
 location: "CHINA."

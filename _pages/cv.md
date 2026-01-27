@@ -27,6 +27,10 @@ Work experience
 * Postdoc Research Fellow 
   * HKUST
   * Supervisor: [Mengqian Lu](https://cemlu.people.ust.hk/)
+  
+* Research Scientist Intern
+  * [Shanghai Artificial Intelligence Lab](https://www.shlab.org.cn/)
+  * Supervisor: Xiaoshui Huang and [Wanli Ouyang](https://wlouyang.github.io/)
 
 Skills
 ======

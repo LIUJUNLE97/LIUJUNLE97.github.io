@@ -9,7 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-I have numerous collaborations on AI4S and fluid dynamics. If you are interested in collaboration, great welcome to send an Email. 
+I have numerous collaborations on AI4S and fluid dynamics. If you are interested in collaboration, great welcome to send an Email to me.  
 
 Some of my collaborations are listed as follows: 
 * [Research Team](https://www.bsc.es/discover-bsc/organisation/research-departments/large-scale-computational-fluid-dynamics) from [Barcelona Super Computing (BSC)](https://www.bsc.es/) Center

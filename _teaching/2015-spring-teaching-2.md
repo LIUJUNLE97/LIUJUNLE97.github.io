@@ -9,7 +9,9 @@ location: "Stockholm, Sweden."
 ---
 
 Supervision: 
-- Samer Bassam Salim Jameel, Master's studnet, collaborating with NKT.
+- Samer Bassam Salim Jameel, KTH Master's student, co-supervision with Dr.Boshen Bian in NKT.
+- Yi Yang, KTH Master's student, co-supervision with Dr.Zhendong Liu in KTH.
+- Xinrui Li, KTH Master's student, co-supervision with Dr.Zhendong Liu in KTH.
 
 Teaching: 
 - Incoming: [SG1115 Particle Dynamics](https://www.kth.se/student/kurser/kurs/SG1115?l=en), project supervision

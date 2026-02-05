@@ -12,6 +12,7 @@ redirect_from:
 I have numerous collaborations on AI4S and fluid dynamics. If you are interested in collaboration, great welcome to send an Email to me.  
 
 Some of my collaborations are listed as follows: 
+* CFD Team in NKT.
 * [Research Team](https://www.bsc.es/discover-bsc/organisation/research-departments/large-scale-computational-fluid-dynamics) from [Barcelona Super Computing (BSC)](https://www.bsc.es/) Center
 * Prof.[Chang Liu](https://changliulab.engineering.uconn.edu/) from the University of Connecticut
 * Prof.[Kenny C.S. Kwow](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/kenny-kwok.html) from the University of Sydeny

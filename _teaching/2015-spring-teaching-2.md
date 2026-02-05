@@ -12,7 +12,6 @@ Supervision:
 - Samer Bassam Salim Jameel, KTH Master's student, co-supervision with Dr.Boshen Bian in NKT.
 - Yi Yang, KTH Master's student, co-supervision with Dr.Zhendong Liu in KTH.
 - Xinrui Li, KTH Master's student, co-supervision with Dr.Zhendong Liu in KTH.
-
 Teaching: 
 - Incoming: [SG1115 Particle Dynamics](https://www.kth.se/student/kurser/kurs/SG1115?l=en), project supervision
 - Wing Profile, [SG2218/FSG3112 Turbulence](https://www.kth.se/student/kurser/kurs/FSG3112?l=en), experimental fluid mechanics lab demonstration

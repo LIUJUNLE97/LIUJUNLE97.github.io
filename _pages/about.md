@@ -27,6 +27,16 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 
 Latest News
 ======
+**[2026 May] **New Projects Awarded [SMARTRAIL: AI-based rail cable crack detection] supported by NAISS, collaborated with William Liu
+- Topic: Develop VLA tools for railway cable crack detection;
+- Method: Vision-based models, VLA models, physical interpretations;
+- Findings: Ongoing.
+
+**[2026 Apr] **New Projects Awarded [PhyGeo-World: A Physics- and Geometry-Consistent World Model for Embodied AI] supported by NAISS
+- Topic: Develop GeoAI model for physical world;
+- Method: LLM, Diffusion;
+- Findings: Ongoing.
+
 **[2026 Jan] **New collaboration paper in _Energy_ out: [Wind energy potential of a novel green building design: Three connected high-rise buildings with Y-plan layout](https://doi.org/10.1016/j.energy.2026.140124)
 - Topic: Estimate the wind energy potential in the urban city;
 - Method: Numerical-experiments cross-validation;

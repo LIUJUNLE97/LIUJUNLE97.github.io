@@ -46,4 +46,4 @@ Skills
 Community service
 ======
 * Reviewer: AAAI, NeuraIPS, Physics of Fluids, Engineering Structures, Advances in Structural Engineering, Wind and Structures
-* Membership: 中国振动工程协会
+* Membership: 中国振动工程学会，APS-DFD

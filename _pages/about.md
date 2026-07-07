@@ -28,7 +28,7 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 Latest News
 ======
 
-**[2026 July] **New collaboration paper in _Building_ _And_ _Environment_ out:  Awarded [POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies](https://www.sciencedirect.com/science/article/pii/S0360132326007651) 
+**[2026 July] **New collaboration paper in _Building_ _And_ _Environment_ out: [POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies](https://www.sciencedirect.com/science/article/pii/S0360132326007651) 
 - Topic: Develop and evaluate AI algorithms for turbulent flow prediction in interferrence zone;
 - Method: an interpretable POD-FNO method;
 - Findings: interpretable AI can predict turbulent features and understand physical information.

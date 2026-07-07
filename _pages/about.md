@@ -22,11 +22,17 @@ Some recent research interests of Dr.Liu:
 - Reinforcement Learning for flow control and UAV/drone optimization (low-attitude drone);
 - AI4Fluids: prediction and reconstruction.
 
-Dr.Liu welcomes any kind of academic and industrial collaborations. If you are interested in integrating AI techniques with engineering practices, please feel free to drop an email at junle@kth.se or send an instant message. 
+Dr.Liu welcomes any kind of academic and industrial collaborations. If you are interested in integrating AI techniques with engineering practices, please feel free to drop an [email](mailto:junle@kth.se) or send an instant message. 
 
 
 Latest News
 ======
+
+**[2026 July] **New collaboration paper in _Building_ _And_ _Environment_ out:  Awarded [POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies](https://www.sciencedirect.com/science/article/pii/S0360132326007651) 
+- Topic: Develop and evaluate AI algorithms for turbulent flow prediction in interferrence zone;
+- Method: an interpretable POD-FNO method;
+- Findings: interpretable AI can predict turbulent features and understand physical information.
+  
 **[2026 May] **New Projects Awarded [SMARTRAIL: AI-based rail cable crack detection] supported by NAISS, collaborated with William Liu
 - Topic: Develop VLA tools for railway cable crack detection;
 - Method: Vision-based models, VLA models, physical interpretations;

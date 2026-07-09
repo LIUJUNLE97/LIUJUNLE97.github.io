@@ -17,10 +17,10 @@ In his past research journey, he has been concentrating on AI-aided aerodynamics
 
 Some recent research interests of Dr.Liu:
 
-- AI4Engineeirng;
-- Developing new wall boundary conditions for turbulent channel;
-- Reinforcement Learning for flow control and UAV/drone optimization (low-attitude drone);
-- AI4Fluids: prediction and reconstruction.
+- Wind Engineeirng: Experimental, Numerical, and Data-Driven perspectives;
+- Reinforcement Learning for flow control and UAV/drone optimization (low-attitude aerodynamics);
+- AI for Fluid Engineering: prediction and reconstruction;
+- Atmosphere aerodynamics
 
 Dr.Liu welcomes any kind of academic and industrial collaborations. If you are interested in integrating AI techniques with engineering practices, please feel free to drop an [email](mailto:junle@kth.se) or send an instant message. 
 

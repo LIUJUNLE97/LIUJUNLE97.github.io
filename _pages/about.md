@@ -28,6 +28,9 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 Latest News
 ======
 
+**[2026 Aug] **New conference paper in _BMVC_ 2026 accepted: [Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition](http://arxiv.org/abs/2608.02092)
+- Topic: Computer vision, multimodal detection, RGB+IR
+
 **[2026 July] **New collaboration paper in _Physcis_ _of_ _Fludis_ out: [Explainable machine learning-enhanced aerodynamic characteristic analysis of bluff bodies under interference effects](https://pubs.aip.org/aip/pof/article-abstract/38/7/075133/3398061/Explainable-machine-learning-enhanced-aerodynamic?redirectedFrom=fulltext)
 - Topic: Investigate the two tandem building interference effects with XML methods;
 - Method: CFD, XML, SHAP, Uncertainity quantification;

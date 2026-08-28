@@ -1,19 +1,29 @@
 # Navigation links
 main:
   - title: "Publications"
+    title_zh: "论文发表"
     url: /publications/
 
+  - title: "Awards"
+    title_zh: "获奖荣誉"
+    url: /awards/
+
   - title: "Talks"
+    title_zh: "学术报告"
     url: /talks/
 
   - title: "Supervision and Teaching"
+    title_zh: "学生指导与教学"
     url: /teaching/
 
   - title: "Album"
+    title_zh: "相册"
     url: /portfolio/
 
   - title: "CV"
+    title_zh: "简历"
     url: /cv/
 
   - title: "Collaborations"
+    title_zh: "科研合作"
     url: /markdown/

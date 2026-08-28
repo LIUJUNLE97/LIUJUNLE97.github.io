@@ -7,6 +7,18 @@ html {
   min-height: 100%;
 }
 
+[data-lang="zh"] {
+  display: none;
+}
+
+html[data-language="zh"] [data-lang="en"] {
+  display: none;
+}
+
+html[data-language="zh"] [data-lang="zh"] {
+  display: revert;
+}
+
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);

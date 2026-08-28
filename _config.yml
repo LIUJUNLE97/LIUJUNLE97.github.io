@@ -25,10 +25,14 @@ author:
   # Biographic information
   avatar           : "CV3.png"
   name             : "Junle Liu"
+  name_zh          : "刘军乐"
   pronouns         :  #"he/him"  
-  bio              : "Postdoc Research Fellow, Passionate on AI & Fluids Engineering"
+  bio              : "Research Fellow, Passionate about AI & Fluids Engineering"
+  bio_zh           : "研究员，专注于人工智能与流体工程"
   location         : "Stockholm, Sweden"
+  location_zh      : "瑞典·斯德哥尔摩"
   employer         : "KTH Royal Institute of Technology"
+  employer_zh      : "瑞典皇家理工学院"
   uri              : "https://www.kth.se/profile/junle"
   email            : "junle@kth.se"
   # Academic websites
@@ -85,10 +89,13 @@ author:
 publication_category:
   books:
     title: 'Books'
+    title_zh: '著作'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
+    title_zh: '期刊论文'
   conferences:
     title: 'Conference Papers'
+    title_zh: '会议论文'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

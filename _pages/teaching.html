@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Supervision and Teaching"
+title_zh: "学生指导与教学"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,5 +9,19 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <article class="archive__item teaching-entry">
+    <h2 class="archive__item-title">
+      <a href="{{ base_path }}{{ post.url }}">
+        <span data-lang="en">{{ post.title }}</span>
+        <span data-lang="zh">{{ post.title_zh | default: post.title }}</span>
+      </a>
+    </h2>
+    <p>
+      <span data-lang="en">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</span>
+      <span data-lang="zh">{{ post.type_zh | default: post.type }}，<i>{{ post.venue_zh | default: post.venue }}</i>，{{ post.date | date: "%Y" }}</span>
+    </p>
+    <div class="archive__item-excerpt teaching-entry__content">
+      {{ post.content }}
+    </div>
+  </article>
 {% endfor %}

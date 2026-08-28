@@ -225,13 +225,22 @@
       }
     }
 
+    #language-toggle,
     #theme-toggle {
       a {
-        width: 25px;
+        min-width: 25px;
         display: flex;
         justify-content: center;
         cursor: pointer;
       }
+    }
+
+    #language-toggle a {
+      padding-right: 0.35rem;
+      padding-left: 0.35rem;
+      font-size: 0.75em;
+      font-weight: 700;
+      white-space: nowrap;
     }
 
     a {

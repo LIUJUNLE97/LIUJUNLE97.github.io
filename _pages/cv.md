@@ -61,7 +61,7 @@ Community service
 * 香港科技大学，人工智能与风工程博士
   * 导师：Tim K.T. Tse、胡钢
   * 学位论文：人工智能辅助的气动压力与流场预测
-  * 答辩委员会成员：[Andrew Glen COHEN](https://ias.hkust.edu.hk/people/ias-members/faculty/prof-andrew-cohen)、[苏辉](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hui-su-cehsu)、[邓小伟](https://www.civil.hku.hk/pp-dengxw.html)、[傅林](https://seng.hkust.edu.hk/about/people/faculty/lin-fu)、[张继泽](https://ce.hkust.edu.hk/people/jize-zhang-zhangjize)、[Tim K.T. TSE](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse)
+  * 答辩委员会成员：[Andrew Glen COHEN](https://ias.hkust.edu.hk/people/ias-members/faculty/prof-andrew-cohen)、[Hui SU](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=hui-su-cehsu)、[Xiaowei DENG](https://www.civil.hku.hk/pp-dengxw.html)、[Lin FU](https://seng.hkust.edu.hk/about/people/faculty/lin-fu)、[Jize ZHANG](https://ce.hkust.edu.hk/people/jize-zhang-zhangjize)、[Tim K.T. TSE](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=kam-tim-tse-timkttse)
 * 哈尔滨工业大学（深圳），工学学士
 
 工作经历

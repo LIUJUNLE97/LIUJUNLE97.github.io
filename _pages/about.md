@@ -31,6 +31,8 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 Latest News
 ======
 
+**[2026 Sep]** A General Program project funded by the National Natural Science Foundation of China (NSFC) has been awarded. I am a key participant in the project (ranked second).
+
 **[2026 Aug] **New conference paper in _BMVC_ 2026 accepted: [Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition](http://arxiv.org/abs/2608.02092)
 - Topic: Computer vision, multimodal detection, RGB+IR
 
@@ -82,6 +84,8 @@ Latest News
 
 最新动态
 ======
+
+**[2026 年 9 月]** 国家自然科学基金面上项目获批，本人作为项目主要参与者（排名第 2）参与该项目。
 
 **[2026 年 8 月]** BMVC 2026 会议论文被接收：[通过空间掩码交互与通道竞争实现深度多模态目标检测](http://arxiv.org/abs/2608.02092)
 

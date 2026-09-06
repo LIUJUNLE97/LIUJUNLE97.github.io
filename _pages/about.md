@@ -44,6 +44,8 @@ Latest News
 - Topic: Develop and evaluate AI algorithms for turbulent flow prediction in interferrence zone;
 - Method: an interpretable POD-FNO method;
 - Findings: interpretable AI can predict turbulent features and understand physical information.
+
+**[2026 June]** Nominated for the WAIC 2026 SAIL Award.
   
 **[2026 May] **New Projects Awarded [SMARTRAIL: AI-based rail cable crack detection] supported by NAISS, collaborated with William Liu
 - Topic: Develop VLA tools for railway cable crack detection;
@@ -101,6 +103,8 @@ Latest News
 - 主题：开发并评估用于干扰区湍流预测的人工智能算法；
 - 方法：可解释的 POD-FNO 方法；
 - 结论：可解释人工智能能够预测湍流特征并揭示物理信息。
+
+**[2026 年 6 月]** 获得 WAIC 2026 SAIL Award 提名。
 
 **[2026 年 5 月]** 新项目获批：SMARTRAIL——基于人工智能的铁路电缆裂纹检测。项目由 NAISS 支持，与 William Liu 合作开展。
 

@@ -16,11 +16,11 @@ Hi, there. Dr.Junle LIU earned his Ph.D. degree from Hong Kong University of Sci
 
 Dr Liu, from May 2025, joined KTH [FLOW Center](https://www.flow.kth.se/) as a Research Fellow supervised by [Stefan Wallin](https://www.kth.se/profile/swallin?l=en) focusing on ERC ROSAS project, and his research topics are centered on DRL and wall modelling.
 
-In his past research journey, he has been concentrating on AI-aided aerodynamics and data-driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
+In his research journey, he has been concentrating on AI-aided aerodynamics and data-driven techniques in experimental fluid mechanics and numerical simulation. As of now, Dr.Liu has published papers covering AI-enhanced fluid mechanics, experimental fluid mechanics, and reduced-order modelling techniques in aerodynamics.
 
 Some recent research interests of Dr.Liu:
 
-- Wind Engineeirng: Experimental, Numerical, and Data-Driven perspectives;
+- Wind Engineeirng: Experimental, Numerical, and Data-Driven perspectives, along with wind energy;
 - Reinforcement Learning for flow control and UAV/drone optimization (low-attitude aerodynamics);
 - AI for Fluid Engineering: prediction, reconstruction, and control;
 - Atmosphere aerodynamics
@@ -78,7 +78,7 @@ Latest News
 
 近期研究兴趣包括：
 
-- 风工程：实验、数值与数据驱动方法；
+- 风工程：实验、数值与数据驱动方法，及风能研究；
 - 面向流动控制及无人机优化的强化学习（低空空气动力学）；
 - 流体工程人工智能：预测、重构与控制；
 - 大气空气动力学。

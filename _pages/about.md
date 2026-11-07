@@ -30,6 +30,7 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 
 Latest News
 ======
+**[2026 Nov] ** Awarded Excellence prize in 2026 Nanjing Overseas Chinese Community Innovation and Entrepreneurship Competition-Final. Project "Edge Deployment Intelligence and Systems for Defect Monitoring and Assessment in Industrial Products". 
 
 **[2026 Sep]** A General Program project funded by the National Natural Science Foundation of China (NSFC) has been awarded. I am a key participant in the project (ranked second).
 
@@ -86,6 +87,8 @@ Latest News
 
 最新动态
 ======
+**[2026 年 11 月] ** 作为项目核心技术负责人，获得2026江苏省南京市侨界创新创业大赛·决赛 优胜奖；项目名称 “面向工业产品缺陷监测与评估的边缘智能终端及系统”
+
 
 **[2026 年 9 月]** 国家自然科学基金面上项目获批，本人作为项目主要参与者（排名第 2）参与该项目。
 

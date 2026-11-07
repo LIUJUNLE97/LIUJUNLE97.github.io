@@ -25,7 +25,7 @@ author_profile: true
 
 ## Provincial Level
 
-- **Second Prize**, Jiangsu Innovation and Entrepreneurship Competition, 2026.
+- **Excellence prize**, 2026 Nanjing Overseas Chinese Community Innovation and Entrepreneurship Competition-Final
 
 ## University Level
 
@@ -57,7 +57,7 @@ author_profile: true
 
 ## 省级
 
-- **二等奖**，2026 江苏省创新创业大赛。
+- **优胜奖**，2026 江苏省创新创业大赛-2026南京市侨界创新创业大赛·决赛
 
 ## 校级
 

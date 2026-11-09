@@ -30,35 +30,35 @@ Dr.Liu welcomes any kind of academic and industrial collaborations. If you are i
 
 Latest News
 ======
-**[2026 Nov] ** Awarded Excellence prize in 2026 Nanjing Overseas Chinese Community Innovation and Entrepreneurship Competition-Final. Project "Edge Deployment Intelligence and Systems for Defect Monitoring and Assessment in Industrial Products". 
+**[2026 Nov]** Awarded Excellence prize in 2026 Nanjing Overseas Chinese Community Innovation and Entrepreneurship Competition-Final. Project "Edge Deployment Intelligence and Systems for Defect Monitoring and Assessment in Industrial Products". 
 
 **[2026 Sep]** A General Program project funded by the National Natural Science Foundation of China (NSFC) has been awarded. I am a key participant in the project (ranked second).
 
-**[2026 Aug] **New conference paper in _BMVC_ 2026 accepted: [Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition](http://arxiv.org/abs/2608.02092)
+**[2026 Aug]** New conference paper in _BMVC_ 2026 accepted: [Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition](http://arxiv.org/abs/2608.02092)
 - Topic: Computer vision, multimodal detection, RGB+IR
 
-**[2026 July] **New collaboration paper in _Physcis_ _of_ _Fludis_ out: [Explainable machine learning-enhanced aerodynamic characteristic analysis of bluff bodies under interference effects](https://pubs.aip.org/aip/pof/article-abstract/38/7/075133/3398061/Explainable-machine-learning-enhanced-aerodynamic?redirectedFrom=fulltext)
+**[2026 July]** New collaboration paper in _Physcis_ _of_ _Fludis_ out: [Explainable machine learning-enhanced aerodynamic characteristic analysis of bluff bodies under interference effects](https://pubs.aip.org/aip/pof/article-abstract/38/7/075133/3398061/Explainable-machine-learning-enhanced-aerodynamic?redirectedFrom=fulltext)
 - Topic: Investigate the two tandem building interference effects with XML methods;
 - Method: CFD, XML, SHAP, Uncertainity quantification;
 
-**[2026 July] **New collaboration paper in _Building_ _And_ _Environment_ out: [POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies](https://www.sciencedirect.com/science/article/pii/S0360132326007651) 
+**[2026 July]** New collaboration paper in _Building_ _And_ _Environment_ out: [POD-FNO for efficient and interpretable prediction of turbulent flow around bluff bodies](https://www.sciencedirect.com/science/article/pii/S0360132326007651) 
 - Topic: Develop and evaluate AI algorithms for turbulent flow prediction in interferrence zone;
 - Method: an interpretable POD-FNO method;
 - Findings: interpretable AI can predict turbulent features and understand physical information.
 
 **[2026 June]** Nominated for the WAIC 2026 SAIL Award.
   
-**[2026 May] **New Projects Awarded [SMARTRAIL: AI-based rail cable crack detection] supported by NAISS, collaborated with William Liu
+**[2026 May]** New Projects Awarded [SMARTRAIL: AI-based rail cable crack detection] supported by NAISS, collaborated with William Liu
 - Topic: Develop VLA tools for railway cable crack detection;
 - Method: Vision-based models, VLA models, physical interpretations;
 - Findings: Ongoing.
 
-**[2026 Apr] **New Projects Awarded [PhyGeo-World: A Physics- and Geometry-Consistent World Model for Embodied AI] supported by NAISS
+**[2026 Apr]** New Projects Awarded [PhyGeo-World: A Physics- and Geometry-Consistent World Model for Embodied AI] supported by NAISS
 - Topic: Develop GeoAI model for physical world;
 - Method: LLM, Diffusion;
 - Findings: Ongoing.
 
-**[2026 Jan] **New collaboration paper in _Energy_ out: [Wind energy potential of a novel green building design: Three connected high-rise buildings with Y-plan layout](https://doi.org/10.1016/j.energy.2026.140124)
+**[2026 Jan]** New collaboration paper in _Energy_ out: [Wind energy potential of a novel green building design: Three connected high-rise buildings with Y-plan layout](https://doi.org/10.1016/j.energy.2026.140124)
 - Topic: Estimate the wind energy potential in the urban city;
 - Method: Numerical-experiments cross-validation;
 - Findings: Installing wind turbines in urban city buildings can harvest a great amount of wind energy.
@@ -87,7 +87,7 @@ Latest News
 
 最新动态
 ======
-**[2026 年 11 月] ** 作为项目核心技术负责人，获得2026江苏省南京市侨界创新创业大赛·决赛 优胜奖；项目名称 “面向工业产品缺陷监测与评估的边缘智能终端及系统”
+**[2026 年 11 月]** 作为项目核心技术负责人，获得2026江苏省南京市侨界创新创业大赛·决赛 优胜奖；项目名称 “面向工业产品缺陷监测与评估的边缘智能终端及系统”
 
 
 **[2026 年 9 月]** 国家自然科学基金面上项目获批，本人作为项目主要参与者（排名第 2）参与该项目。
